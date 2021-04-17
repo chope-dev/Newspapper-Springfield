@@ -1,6 +1,6 @@
-The Springfield Shopper is the most popular and most dominant local newspaper in Springfield.
+* The Springfield Shopper is the most popular and most dominant local newspaper in Springfield.
 
-**History**
+* **History**
 The paper was founded in 1883 by Johnny Newspaperseed, a small boy who travelled around America founding newspapers.
 
 The Shopper merged with the Springfield Times, Post, Globe, Herald, Jewish News, and Hot Sex Weekly, becoming Springfield's biggest paper [1].
