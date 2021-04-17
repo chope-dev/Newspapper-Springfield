@@ -1,0 +1,1 @@
+Newspapper of Springfield!
